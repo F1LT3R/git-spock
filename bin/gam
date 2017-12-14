@@ -1,0 +1,3 @@
+#!/bin/bash
+COMMAND="git commit --amend -m \"$@\""
+spock $COMMAND
