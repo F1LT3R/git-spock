@@ -14,6 +14,7 @@ Pretty Git short-commands for your terminal.
 - gc - `git commit -m "$@"`
 - gam - `git commit --amend -m "$@"`
 - gd - `git diff` | `git diff $@`
+- gdc - `git diff --cached $@`
 - gs - `git status`
 - gpom - `git push origin master`
 - glom - `git pull origin master`
