@@ -1,0 +1,3 @@
+#!/bin/bash
+COMMAND="git stash apply stash@{$1}"
+spock $COMMAND
